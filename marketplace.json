@@ -1,50 +1,68 @@
 {
-  "name": "Pipe Bomb Community",
-  "plugins": [
-    {
-      "id": "workflow-utils",
-      "name": "Workflow Utils",
-      "description": "Adds additional workflow steps and triggers that might be useful.",
-      "authorName": "Pipe Bomb Community",
-      "authorUrl": "https://github.com/Pipe-Bomb-Community",
-      "url": "https://github.com/Pipe-Bomb-Community/workflow-utils-plugin",
-      "repository": "https://github.com/Pipe-Bomb-Community/workflow-utils-plugin"
-    },
-    {
-      "id": "youtube-music",
-      "name": "YouTube Music",
-      "description": "Provides access to the Youtube Music library, and identifies and attributes tracks, albums and artists.",
-      "authorName": "Pipe Bomb Community",
-      "authorUrl": "https://github.com/Pipe-Bomb-Community",
-      "url": "https://github.com/Pipe-Bomb-Community/youtube-music-plugin",
-      "repository": "https://github.com/Pipe-Bomb-Community/youtube-music-plugin"
-    },
-    {
-      "id": "soundcloud",
-      "name": "SoundCloud",
-      "description": "Provides access to the SoundCloud music library, and identifies and attributes tracks, albums and artists.",
-      "authorName": "Pipe Bomb Community",
-      "authorUrl": "https://github.com/Pipe-Bomb-Community",
-      "url": "https://github.com/Pipe-Bomb-Community/soundcloud-plugin",
-      "repository": "https://github.com/Pipe-Bomb-Community/soundcloud-plugin"
-    },
-    {
-      "id": "dlna",
-      "name": "DLNA",
-      "description": "Makes music on Pipe Bomb available using a DLNA server.",
-      "authorName": "Pipe Bomb Community",
-      "authorUrl": "https://github.com/Pipe-Bomb-Community",
-      "url": "https://github.com/Pipe-Bomb-Community/dlna-plugin",
-      "repository": "https://github.com/Pipe-Bomb-Community/dlna-plugin"
-    },
-    {
-      "id": "lidarr",
-      "name": "Lidarr",
-      "description": "Scans all albums with a MusicBrainz release group ID and monitors them in Lidarr.",
-      "authorName": "Pipe Bomb Community",
-      "authorUrl": "https://github.com/Pipe-Bomb-Community",
-      "url": "https://github.com/Pipe-Bomb-Community/lidarr-plugin",
-      "repository": "https://github.com/Pipe-Bomb-Community/lidarr-plugin"
-    }
-  ]
+	"name": "Pipe Bomb Community",
+	"plugins": [
+		{
+			"id": "workflow-utils",
+			"name": "Workflow Utils",
+			"description": "Adds additional workflow steps and triggers that might be useful.",
+			"authorName": "Pipe Bomb Community",
+			"authorUrl": "https://github.com/Pipe-Bomb-Community",
+			"url": "https://github.com/Pipe-Bomb-Community/workflow-utils-plugin",
+			"repository": "https://github.com/Pipe-Bomb-Community/workflow-utils-plugin"
+		},
+		{
+			"id": "youtube-music",
+			"name": "YouTube Music",
+			"description": "Provides access to the Youtube Music library, and identifies and attributes tracks, albums and artists.",
+			"authorName": "Pipe Bomb Community",
+			"authorUrl": "https://github.com/Pipe-Bomb-Community",
+			"url": "https://github.com/Pipe-Bomb-Community/youtube-music-plugin",
+			"repository": "https://github.com/Pipe-Bomb-Community/youtube-music-plugin"
+		},
+		{
+			"id": "soundcloud",
+			"name": "SoundCloud",
+			"description": "Provides access to the SoundCloud music library, and identifies and attributes tracks, albums and artists.",
+			"authorName": "Pipe Bomb Community",
+			"authorUrl": "https://github.com/Pipe-Bomb-Community",
+			"url": "https://github.com/Pipe-Bomb-Community/soundcloud-plugin",
+			"repository": "https://github.com/Pipe-Bomb-Community/soundcloud-plugin"
+		},
+		{
+			"id": "dlna",
+			"name": "DLNA",
+			"description": "Makes music on Pipe Bomb available using a DLNA server.",
+			"authorName": "Pipe Bomb Community",
+			"authorUrl": "https://github.com/Pipe-Bomb-Community",
+			"url": "https://github.com/Pipe-Bomb-Community/dlna-plugin",
+			"repository": "https://github.com/Pipe-Bomb-Community/dlna-plugin"
+		},
+		{
+			"id": "lidarr",
+			"name": "Lidarr",
+			"description": "Scans all albums with a MusicBrainz release group ID and monitors them in Lidarr.",
+			"authorName": "Pipe Bomb Community",
+			"authorUrl": "https://github.com/Pipe-Bomb-Community",
+			"url": "https://github.com/Pipe-Bomb-Community/lidarr-plugin",
+			"repository": "https://github.com/Pipe-Bomb-Community/lidarr-plugin"
+		},
+		{
+			"id": "open-subsonic",
+			"name": "OpenSubsonic",
+			"description": "Implements the OpenSubsonic protocol to enable the usage of any OpenSubsonic client with Pipe Bomb.",
+			"authorName": "eyezah",
+			"authorUrl": "https://github.com/eyezahhhh",
+			"url": "https://github.com/eyezahhhh/open-subsonic-plugin",
+			"repository": "https://github.com/eyezahhhh/open-subsonic-plugin"
+		},
+		{
+			"id": "playlist-cover-art",
+			"name": "Playlist Cover Art",
+			"description": "Adds custom thumbnail generators for playlists.",
+			"authorName": "eyezah",
+			"authorUrl": "https://github.com/eyezahhhh",
+			"url": "https://github.com/eyezahhhh/playlist-cover-art-plugin",
+			"repository": "https://github.com/eyezahhhh/playlist-cover-art-plugin"
+		}
+	]
 }
