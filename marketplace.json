@@ -66,7 +66,7 @@
 		},
 		{
 			"id": "api-links",
-			"name": "api-links",
+			"name": "API Links",
 			"description": "Provides quick-access links to API endpoints for tracks, artists and albums.",
 			"authorName": "eyezah",
 			"authorUrl": "https://github.com/eyezahhhh",
