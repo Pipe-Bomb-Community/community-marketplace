@@ -63,6 +63,15 @@
 			"authorUrl": "https://github.com/eyezahhhh",
 			"url": "https://github.com/eyezahhhh/playlist-cover-art-plugin",
 			"repository": "https://github.com/eyezahhhh/playlist-cover-art-plugin"
+		},
+		{
+			"id": "api-links",
+			"name": "api-links",
+			"description": "Provides quick-access links to API endpoints for tracks, artists and albums.",
+			"authorName": "eyezah",
+			"authorUrl": "https://github.com/eyezahhhh",
+			"url": "https://github.com/Pipe-Bomb-Community/api-links-plugin",
+			"repository": "https://github.com/Pipe-Bomb-Community/api-links-plugin"
 		}
 	]
 }
