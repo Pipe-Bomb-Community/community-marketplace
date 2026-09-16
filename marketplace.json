@@ -72,6 +72,15 @@
 			"authorUrl": "https://github.com/eyezahhhh",
 			"url": "https://github.com/Pipe-Bomb-Community/api-links-plugin",
 			"repository": "https://github.com/Pipe-Bomb-Community/api-links-plugin"
+		},
+		{
+			"id": "listenbrainz",
+			"name": "ListenBrainz",
+			"description": "Scrobbles to ListenBrainz and creates Pipe Bomb playlists for LB loved tracks and weekly recommendations.",
+			"authorName": "eyezah",
+			"authorUrl": "https://github.com/eyezahhhh",
+			"url": "https://github.com/eyezahhhh/listenbrainz-plugin",
+			"repository": "https://github.com/eyezahhhh/listenbrainz-plugin"
 		}
 	]
 }
